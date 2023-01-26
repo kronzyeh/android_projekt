@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="4dp"
+    android:layout_marginBottom="4dp"
+
+    android:background="@drawable/border"
+    android:clickable="true"
+    android:foregroundTint="#FFFFFF"
+    android:gravity="center_vertical"
+    android:paddingTop="12dp"
+    android:paddingBottom="12dp">
+
+    <TextView
+        android:id="@+id/label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="6dp"
+        android:layout_weight="1"
+        android:text="Bananas"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/amount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="12dp"
+        android:text="€12"
+        android:textSize="20sp" />
+
+    <ImageButton
+        android:id="@+id/deleteBtn"
+        android:layout_width="54dp"
+        android:layout_height="54dp"
+        android:layout_marginRight="20dp"
+        android:backgroundTint="@color/white"
+        android:src="@drawable/ic_delete">
+
+    </ImageButton>
+
+</LinearLayout>

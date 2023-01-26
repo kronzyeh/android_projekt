@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">tl5_projekt</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Welcome">LOGIN TO CONTINUE</string>
+    <string name="RegisterTo">REGISTER TO CONTINUE</string>
+    <string name="Login">LOGIN</string>
+    <string name="Register">REGISTER</string>
+    <string name="Email">Email</string>
+    <string name="Logo">BUDGY</string>
+    <string name="TypeEmail">Type Your Email</string>
+    <string name="NoAccont">No account? Register below!</string>
+    <string name="Balance">TOTAL BALANCE</string>
+    <string name="totalAmount">$300</string>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+	"firebase_url": "https://tl5-projekt-default-rtdb.europe-west1.firebasedatabase.app/",
+    "project_number": "303606617937",
+    "project_id": "tl5-projekt",
+    "storage_bucket": "tl5-projekt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303606617937:android:1a196e8dbf8a86f18d6570",
+        "android_client_info": {
+          "package_name": "hr.ferit.tomislav.lucic5.tl5_projekt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303606617937-o9a1nlqgvrdslfots0p1u1t1i0q32fhh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBze1rOBBhEkQHsGuHDUBHzWu1FP9yAgb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303606617937-o9a1nlqgvrdslfots0p1u1t1i0q32fhh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
